@@ -1,0 +1,27 @@
+{
+  "name": "introducaopraticatypescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PClima/introducaoPraticaTypescript.git"
+  },
+  "author": "Pedro Cordeiro Lima | cordeirolima.pedro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PClima/introducaoPraticaTypescript/issues"
+  },
+  "homepage": "https://github.com/PClima/introducaoPraticaTypescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
